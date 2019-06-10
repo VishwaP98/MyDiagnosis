@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView"
+            android:visibility="visible"
+            android:textAlignment="center"
+            android:textSize="36sp"
+            android:text="Don't have time to go through all symptoms?"/>
+
+    <EditText
+            android:layout_margin="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textMultiLine"
+            android:maxEms="10"
+            android:id="@+id/userInput"
+            android:visibility="visible"
+            android:hint="Describe your problem here"/>
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:clickable="true"
+            android:text="Go"
+            android:visibility="visible"
+            android:id="@+id/goButton"/>
+
+    <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler_view_mentions"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"/>
+
+</LinearLayout>
