@@ -8,6 +8,6 @@ Android application designed to provide detailed diagnosis based on observed sym
 -> MockK - Used to mock external dependencies for unit tests
 
 ## Architecture Components used
--> ViewModel - Used to decouple view from the data that the view is presenting. Allows data shown by the view to survive view                state changes 
+-> ViewModel - Used to decouple view from the data that the view is presenting. Allows data shown by the view to survive view                state changes
 -> LiveData - Used to allow views to observe on data changes in the viewModels
 -> Room - Used to store data locally, very easy since lot of boilerplate code is removed and trivial to define entities and             DAOs
