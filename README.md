@@ -15,7 +15,7 @@ Android application designed to provide detailed diagnosis based on observed sym
  
 <div align="center">
 <p float="center">
-  <img src="https://github.com/VishwaP98/MyDiagnosis/blob/master/screenshots/screenshot2.png" width="250" height="400" hspace="50" padding="100"> 
+  <img src="https://github.com/VishwaP98/MyDiagnosis/blob/master/screenshots/screenshot2.png" width="250" height="400" hspace="50"> 
   <img src="https://github.com/VishwaP98/MyDiagnosis/blob/master/screenshots/screenshot3.png" width="250" height="400" hspace="50"> 
   <img src="https://github.com/VishwaP98/MyDiagnosis/blob/master/screenshots/screenshot4.png" width="250" height="400" hspace="50"> 
   <img src="https://github.com/VishwaP98/MyDiagnosis/blob/master/screenshots/screenshot5.png" width="250" height="400" hspace="50"> 
