@@ -11,4 +11,10 @@ Android application designed to provide detailed diagnosis based on observed sym
 -> ViewModel - Used to decouple view from the data that the view is presenting. Allows data shown by the view to survive view                state changes<br/>
 -> LiveData - Used to allow views to observe on data changes in the viewModels<br/>
 -> Room - Used to store data locally, very easy since lot of boilerplate code is removed and trivial to define entities                 and<br/>
-          DAOs
+          DAOs<br/>
+ 
+<div align="center">
+<p float="center">
+  <img src="https://github.com/VishwaP98/MyDiagnosis/screenshots/screenshot1" width="250" height="400" alt="No Words Found yet" hspace="50"> 
+</p>
+</div>
