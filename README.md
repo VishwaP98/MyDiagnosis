@@ -4,10 +4,10 @@ Android application designed to provide detailed diagnosis based on observed sym
 
 ## APIs and Libraries used
 -> Infermedica - Handles diagnosis processing with evidences given by user (https://infermedica.com/)<br/>
--> Retrofit - Used to communicate with the API to achieve application goal
--> MockK - Used to mock external dependencies for unit tests
+-> Retrofit - Used to communicate with the API to achieve application goal<br/>
+-> MockK - Used to mock external dependencies for unit tests<br/>
 
 ## Architecture Components used
--> ViewModel - Used to decouple view from the data that the view is presenting. Allows data shown by the view to survive view                state changes
--> LiveData - Used to allow views to observe on data changes in the viewModels
--> Room - Used to store data locally, very easy since lot of boilerplate code is removed and trivial to define entities and             DAOs
+-> ViewModel - Used to decouple view from the data that the view is presenting. Allows data shown by the view to survive view                state changes<br/>
+-> LiveData - Used to allow views to observe on data changes in the viewModels<br/>
+-> Room - Used to store data locally, very easy since lot of boilerplate code is removed and trivial to define entities and             DAOs<br/>
